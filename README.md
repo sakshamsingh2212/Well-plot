@@ -1,8 +1,5 @@
 # Well-Log Visualization in Python
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Madara123455/Energy-DA-for-Petroleum/blob/main/Displaying_a_Well_Plot_with_MatPlotLib.ipynb)
-
-A Python notebook demonstrating how to load, clean, and visualize subsurface well-log data using `pandas`, `numpy`, and `matplotlib`.
 
 ## Overview
 
@@ -32,6 +29,4 @@ To run this notebook locally or in Google Colab, you will need Python 3 and the 
 * `numpy`
 * `matplotlib`
 
-Install the dependencies via pip:
-```bash
-pip install pandas numpy matplotlib
+
